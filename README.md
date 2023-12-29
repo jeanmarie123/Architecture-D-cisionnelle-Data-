@@ -1,0 +1,1 @@
+Dans ce guide, il sera question de mettre en place une architecture Data montrant comment Extraire les données, les Transformer et les Charger (processus ETL) dans un Data Warehouse puis créer un tableau de bord. Nous allons réaliser le projet en Python pour le processus ETL, en Postgresql pour créer le Data Warehouse et Power BI pour le rapport.
